@@ -58,18 +58,24 @@ quantize
 ```
 
 ## Betrachtungsaufgabe (3 Punkte)
-`wood.pgm` First quantize then interpolate: ![wood_q_then_i (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/wood_q_then_i.png "First quantize then interpolate") ![wood_q_then_i (local)](images/Aufgabe4/wood_q_then_i.png "First quantize then interpolate")
+`wood.pgm` First quantize then interpolate:
+> ![wood_q_then_i (local)](images/Aufgabe4/wood_q_then_i.png "First quantize then interpolate")
 
-`wood.pgm` First interpolate then quantize: ![wood_i_then_q (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/wood_i_then_q.png "First interpolate then quantize") ![wood_i_then_q (local)](images/Aufgabe4/wood_i_then_q.png "First interpolate then quantize")
+`wood.pgm` First interpolate then quantize:
+> ![wood_i_then_q (local)](images/Aufgabe4/wood_i_then_q.png "First interpolate then quantize")
 
 
-`worn.pgm` First quantize then interpolate: ![worn_q_then_i (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/worn_q_then_i.png "First quantize then interpolate") ![worn_q_then_i (local)](images/Aufgabe4/worn_q_then_i.png "First quantize then interpolate")
+`worn.pgm` First quantize then interpolate:
+> ![worn_q_then_i (local)](images/Aufgabe4/worn_q_then_i.png "First quantize then interpolate")
 
-`worn.pgm` First interpolate then quantize: ![worn_i_then_q (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/worn_i_then_q.png "First interpolate then quantize") ![worn_i_then_q (local)](images/Aufgabe4/worn_i_then_q.png "First interpolate then quantize")
+`worn.pgm` First interpolate then quantize:
+> ![worn_i_then_q (local)](images/Aufgabe4/worn_i_then_q.png "First interpolate then quantize")
 
-`sky.pgm` First quantize then interpolate: ![sky_q_then_i (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/sky_q_then_i.png "First quantize then interpolate") ![sky_q_then_i (local)](images/Aufgabe4/sky_q_then_i.png "First quantize then interpolate")
+`sky.pgm` First quantize then interpolate:
+> ![sky_q_then_i (local)](images/Aufgabe4/sky_q_then_i.png "First quantize then interpolate")
 
-`sky.pgm` First interpolate then quantize: ![sky_i_then_q (gitlab)](https://gitlab.tubit.tu-berlin.de/jguth/rorg-ha1/raw/master/images/Aufgabe4/sky_i_then_q.png "First interpolate then quantize") ![sky_i_then_q (local)](images/Aufgabe4/sky_i_then_q.png "First interpolate then quantize")
+`sky.pgm` First interpolate then quantize:
+> ![sky_i_then_q (local)](images/Aufgabe4/sky_i_then_q.png "First interpolate then quantize")
 
 
 Wie an den Bildern zu erkennen ist (`Unteraufgabe 1`), gehen mehr Informationen im
